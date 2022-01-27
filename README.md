@@ -1,0 +1,5 @@
+- 👋 Me chamo Wagner Junior
+- 📚 Atualmente estou cursando Ciência da Computação
+- 👀 Sou interessado em Data Science, Dev de jogos e aplicações web/mobile
+- 🌱 Atualmente estou aprendendo Flutter
+- 📫 E-mail para contato: junior.wagner137@gmail.com
